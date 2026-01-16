@@ -23,7 +23,7 @@ export function Skills() {
                         </li>
                         <li className="flex gap-[20px] justify-items-start py-[20px] bg-black text-center items-center text-white border-b border-[green]">
                             <img
-                                src="/public/pngaaa.com-6447779.png"
+                                src="pngaaa.com-6447779.png"
                                 className="h-[50px] w-[80px]"
                             >
                             </img>
