@@ -9,7 +9,7 @@ export function Home() {
 
     return (
         <>
-            <div id="home" className="w-[100vw] py-[50px] md:py-[150px] relative flex justify-center gap-[50px] md:gap-[80px] flex-wrap bg-[url('/2440x1440-programming-background-2440-x-1440-a7gvtxxz8a12on0j.jpg')] bg-cover bg-center">
+            <div id="home" className="w-[100vw] py-[50px] md:py-[150px] relative flex justify-center gap-[30px] md:gap-[80px] flex-wrap bg-[url('/2440x1440-programming-background-2440-x-1440-a7gvtxxz8a12on0j.jpg')] bg-cover bg-center">
                 <div className=" absolute inset-0 bg-black/80"></div>
                 <div className="flex justify-center items-center relative z-20">
                     <div className="w-[250px] h-[250px] md:w-[300px] md:h-[300px] bg-[url('/penguine.png')] bg-cover bg-center] border-[5px] border-[#09e109]"></div>
