@@ -14,7 +14,9 @@ export function Projects(){
                 <a href="https://bipsweather.netlify.app">
                     <Cards image="/Screen Shot 2026-01-15 at 16.27.54.png" para="A weather app using html css and javascript"/>
                 </a>
-                <Cards image="/portpolio.png" para="A portpolio site using react and tailwind"/>
+                <a href="https://biplabbiswasresume.netlify.app">
+                  <Cards image="/portpolio.png" para="A portpolio site using react and tailwind"/>
+                </a>
                 <a href="https://bipsneoflix.netlify.app/">
                      <Cards image="/movieapp.png" para="A Movie app using TMDB API with react router, context api and tailwind with search feature and addwatchlist"/>
                 </a>
